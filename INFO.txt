@@ -1,0 +1,2 @@
+SE REALIZA LA CONFIGURACIÓN DEL FSMC, y se usan los dos buffers del DMA para mayor
+capacidad

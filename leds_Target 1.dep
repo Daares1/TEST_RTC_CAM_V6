@@ -1,0 +1,6 @@
+Dependencies for Project 'leds', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f4xx.s)(0x5059C122)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx--list .\startup_stm32f4xx.lst --xref -o .\startup_stm32f4xx.o --depend .\startup_stm32f4xx.d)
+F (.\main.c)(0x55340B39)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\includes-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (.\includes\stm32f4xx.h)(0x4EAB1116)
+I (.\includes\core_cm4.h)(0x4EAB1116)
+F (.\Source\BufferComandos.c)(0x52279E25)(-c --cpu Cortex-M4 -D__EVAL --fpu=softvfp+vfpv2 -D__MICROLIB -g -O0 --apcs=interwork -I.\includes -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ST\STM32F4xx" -o "buffercomandos.o" --omf_browse "buffercomandos.crf" --depend "buffercomandos.d")
